@@ -12,7 +12,7 @@ ALGORTIMA KELIPATAN 2<br>
 2. Komputer mengambil angka dari variabel
 3. Memproses dengan cara penambahan 2 dalam loop sampai batas angka yang ditentukan, memakai kondisi
 4. Komputer menampilkan hasilnya
-
+<br>
 ====================================<br>
 ALGORTIMA MENCARI ANGKA TERBESAR<br>
 ====================================<br>
