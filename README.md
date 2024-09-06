@@ -28,18 +28,18 @@ PSEUDOCODE MENCARI KPK DARI 3 DAN 4<br>
 ===================================
 1. Start
 2. a = 3 dan b = 4
-3. Def fpb():
-   -If a < b, smaller=a
-   -Else, smaller=b
-   -For i in range (1,smaller+1)
-     -If a%i == 0 and b%i == 0
-        fpb = i
-     -Return fpb
-8. Def kpk(a,b)
-   -kpk = int(a*b/fpb(a,b))
-   -Retur kpk
-10. Print kpk(a,b)
-11. End
+3. Def fpb():<br>
+   -If a < b, smaller=a<br>
+   -Else, smaller=b<br>
+   -For i in range (1,smaller+1)<br>
+     -If a%i == 0 and b%i == 0<br>
+        fpb = i<br>
+     -Return fpb<br>
+4. Def kpk(a,b)<br>
+   -kpk = int(a*b/fpb(a,b))<br>
+   -Retur kpk<br>
+5. Print kpk(a,b)
+6. End
 
 ============================================<br>
 PSEUDOCODE MENUKAR POSISI MANGGIS DAN PISANG<br>
