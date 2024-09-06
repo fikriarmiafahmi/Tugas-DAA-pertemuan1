@@ -85,7 +85,7 @@ PSEUDOCODE MENCARI VOLUME KERUCUT<br>
 3. Hitung volume kerucut dengan rumus 1/3 * π * (diameter / 2)^2 * tinggi
 5. Tampilkan hasil volume kerucut
    
-B. PSEUDOCODE
+B. PSEUDOCODE<br>
 ======================<br>
 PSEUDOCODE KELIPATAN 2<br>
 ======================
