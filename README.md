@@ -9,7 +9,7 @@ PSEUDOCODE KELIPATAN 2<br>
 1. Start
 2. Input angka
 4. For i in range(2, angka+1, 2)
-6. If i < angka, Print i
+6. If i<angka, Print i
 7. End
 
 =================================<br>
@@ -18,9 +18,9 @@ PSEUDOCODE MENCARI ANGKA TERBESAR<br>
 1. Start
 2. Input Angka1
 3. Input Angka2
-5. If Angka1 > Angka2, print "Angka yang lebih besar adalah {Angka1}"
-7. If Angka2 > Angka1, print "Angka yang lebih besar adalah {Angka2}"
-8. If Angka1 == Angka2, print "Angkanya sama besar"
+5. If Angka1>Angka2, print "Angka yang lebih besar adalah {Angka1}"
+7. If Angka2>Angka1, print "Angka yang lebih besar adalah {Angka2}"
+8. If Angka1==Angka2, print "Angkanya sama besar"
 9. End
 
 ===================================<br>
