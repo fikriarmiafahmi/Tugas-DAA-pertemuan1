@@ -3,6 +3,16 @@ Nama: Fikri Armia Fahmi<br>
 NIM: 2023071018<br>
 =======================<br>
 <br>
+======================<br>
+PSEUDOCODE KELIPATAN 2<br>
+======================
+1. Start
+2. Pengguna menginput angkanya
+3. Komputer mengambil angka dari variabel
+4. Memproses dengan cara penambahan 2 dalam loop sampai batas angka yang ditentukan, memakai kondisi
+5. Komputer menampilkan hasilnya
+6. End
+
 =================================<br>
 PSEUDOCODE MENCARI ANGKA TERBESAR<br>
 =================================
@@ -14,16 +24,6 @@ PSEUDOCODE MENCARI ANGKA TERBESAR<br>
 6. Jika Angka 2 lebih besar dari Angka 1, tampilkan "Angka yang lebih besar adalah Angka 2"
 7. Jika Angka 1 sama dengan Angka 2, tampilkan "Angkanya sama besar"
 8. End
-
-======================<br>
-PSEUDOCODE KELIPATAN 2<br>
-======================
-1. Start
-2. Pengguna menginput angkanya
-3. Komputer mengambil angka dari variabel
-4. Memproses dengan cara penambahan 2 dalam loop sampai batas angka yang ditentukan, memakai kondisi
-5. Komputer menampilkan hasilnya
-6. End
 
 ===================================<br>
 PSEUDOCODE MENCARI KPK DARI 3 DAN 4<br>
