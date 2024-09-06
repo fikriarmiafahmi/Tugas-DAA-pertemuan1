@@ -80,7 +80,7 @@ PSEUDOCODE MENCARI VOLUME TABUNG<br>
 1. Start
 2. jari = 3
 3. tinggi = 5
-5. volume_tabung = 3.14 * jari^2 * tinggi
+5. volume_tabung = 3.14 * jari*jari * tinggi
 6. Print volume_tabung
 7. End
 
@@ -90,6 +90,6 @@ PSEUDOCODE MENCARI VOLUME KERUCUT<br>
 1. Start
 2. diameter = 5
 3. tinggi = 4
-5. volume_kerucut = 1/3 * 3.14 * (diameter/2)^2 * tinggi
+5. volume_kerucut = 1/3 * 3.14 * (diameter/2) * (diameter/2) * tinggi
 6. Print volume_kerucut
 7. End
