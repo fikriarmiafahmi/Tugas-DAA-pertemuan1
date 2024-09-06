@@ -8,8 +8,8 @@ PSEUDOCODE KELIPATAN 2<br>
 ======================
 1. Start
 2. Input angka
-4. For i in range(1, angka+1, 2), i+2
-6. Print i
+4. For i in range(2, angka + 1, 2)
+6. If i < angka, Print i
 7. End
 
 =================================<br>
