@@ -1,11 +1,11 @@
-=======================
-Nama: Fikri Armia Fahmi
-NIM: 2023071018
-=======================
-
-=================================
-PSEUDOCODE MENCARI ANGKA TERBESAR
-=================================
+=======================<br>
+Nama: Fikri Armia Fahmi<br>
+NIM: 2023071018<br>
+=======================<br>
+<br>
+=================================<br>
+PSEUDOCODE MENCARI ANGKA TERBESAR<br>
+=================================<br>
 1. Start
 2. Pengguna menginput Angka 1
 3. Pengguna menginput Angka 2
@@ -15,9 +15,9 @@ PSEUDOCODE MENCARI ANGKA TERBESAR
 7. Jika Angka 1 sama dengan Angka 2, tampilkan "Angkanya sama besar"
 8. End
 
-======================
-PSEUDOCODE KELIPATAN 2
-======================
+======================<br>
+PSEUDOCODE KELIPATAN 2<br>
+======================<br>
 1. Start
 2. Pengguna menginput angkanya
 3. Komputer mengambil angka dari variabel
@@ -25,9 +25,9 @@ PSEUDOCODE KELIPATAN 2
 5. Komputer menampilkan hasilnya
 6. End
 
-===================================
-PSEUDOCODE MENCARI KPK DARI 3 DAN 4
-===================================
+===================================<br>
+PSEUDOCODE MENCARI KPK DARI 3 DAN 4<br>
+===================================<br>
 1. Start
 2. Tentukan nilai a = 3 dan b = 4
 3. Definisikan fungsi FPB(a, b):
@@ -44,9 +44,9 @@ PSEUDOCODE MENCARI KPK DARI 3 DAN 4
 7. Tampilkan KPK
 8. End
 
-============================================
-PSEUDOCODE MENUKAR POSISI MANGGIS DAN PISANG
-============================================
+============================================<br>
+PSEUDOCODE MENUKAR POSISI MANGGIS DAN PISANG<br>
+============================================<br>
 1. Start
 2. Tampilkan "Piring 1: Manggis"
 3. Tampilkan "Piring 2: Pisang"
@@ -60,9 +60,9 @@ PSEUDOCODE MENUKAR POSISI MANGGIS DAN PISANG
    - Tampilkan "Piring 3: Kosong"
 7. End
 
-================================
-PSEUDOCODE MENCARI LUAS SEGITIGA
-================================
+================================<br>
+PSEUDOCODE MENCARI LUAS SEGITIGA<br>
+================================<br>
 1. Mulai
 2. Tetapkan alas = 25 dan tinggi = 30
 3. Tampilkan informasi alas dan tinggi
@@ -70,9 +70,9 @@ PSEUDOCODE MENCARI LUAS SEGITIGA
 5. Tampilkan hasil luas segitiga
 6. Selesai
 
-===========================================
-PSEUDOCODE MENCARI LUAS JAJAR GENJANG
-===========================================
+====================================<br>
+PSEUDOCODE MENCARI LUAS JAJAR GENJANG<br>
+=====================================<br>
 1. Mulai
 2. Tetapkan panjang = 25 dan tinggi = 30
 3. Tampilkan informasi panjang dan tinggi
@@ -80,9 +80,9 @@ PSEUDOCODE MENCARI LUAS JAJAR GENJANG
 5. Tampilkan hasil luas jajargenjang
 6. Selesai
 
-================================
-PSEUDOCODE MENCARI VOLUME TABUNG
-================================
+================================<br>
+PSEUDOCODE MENCARI VOLUME TABUNG<br>
+================================<br>
 1. Mulai
 2. Tetapkan jari-jari = 3 dan tinggi = 5
 3. Tampilkan informasi jari-jari dan tinggi
@@ -90,9 +90,9 @@ PSEUDOCODE MENCARI VOLUME TABUNG
 5. Tampilkan hasil volume tabung
 6. Selesai
 
-=================================
-PSEUDOCODE MENCARI VOLUME KERUCUT
-=================================
+=================================<br>
+PSEUDOCODE MENCARI VOLUME KERUCUT<br>
+=================================<br>
 1. Mulai
 2. Tetapkan diameter = 5 dan tinggi = 4
 3. Tampilkan informasi diameter dan tinggi
