@@ -52,6 +52,7 @@ ALGORTIMA MENUKAR POSISI MANGGIS DAN PISANG<br>
    - Tampilkan "Piring 1: Pisang"
    - Tampilkan "Piring 2: Manggis"
    - Tampilkan "Piring 3: Kosong"
+
 ================================<br>
 ALGORTIMA MENCARI LUAS SEGITIGA<br>
 =================================
