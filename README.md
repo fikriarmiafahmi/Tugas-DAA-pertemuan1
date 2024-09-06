@@ -39,9 +39,9 @@ ALGORTIMA MENCARI KPK DARI 3 DAN 4<br>
 5. Hitung KPK menggunakan hasil FPB
 6. Tampilkan KPK
 
-==============================================<br>
+===========================================<br>
 ALGORTIMA MENUKAR POSISI MANGGIS DAN PISANG<br>
-==============================================
+===========================================
 1. Tampilkan "Piring 1: Manggis"
 2. Tampilkan "Piring 2: Pisang"
 3. Tampilkan "Piring 3: Kosong"
@@ -60,24 +60,24 @@ ALGORTIMA MENCARI LUAS SEGITIGA<br>
 3. Hitung luas segitiga dengan rumus 1/2 * alas * tinggi
 4. Tampilkan hasil luas segitiga
 
-=======================================<br>
+=====================================<br>
 ALGORTIMA MENCARI LUAS JAJAR GENJANG<br>
-=======================================
+=====================================
 1. Tetapkan panjang = 25 dan tinggi = 30
 2. Tampilkan informasi panjang dan tinggi
 3. Hitung luas jajargenjang dengan rumus panjang * tinggi
 4. Tampilkan hasil luas jajargenjang
 
-===================================<br>
+=================================<br>
 ALGORTIMA MENCARI VOLUME TABUNG<br>
-===================================
+=================================
 1. Tetapkan jari-jari = 3 dan tinggi = 5
 2. Tampilkan informasi jari-jari dan tinggi
 3. Hitung volume tabung dengan rumus π * jari-jari^2 * tinggi
 4. Tampilkan hasil volume tabung
-=====================================<br>
+===================================<br>
 PSEUDOCODE MENCARI VOLUME KERUCUT<br>
-=====================================
+===================================
 1. Tetapkan diameter = 5 dan tinggi = 4
 2. Tampilkan informasi diameter dan tinggi
 3. Hitung volume kerucut dengan rumus 1/3 * π * (diameter / 2)^2 * tinggi
