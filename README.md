@@ -5,7 +5,7 @@ NIM: 2023071018<br>
 A. ALGORITMA
 <br>
 ======================<br>
-ALGORTIMA KELIPATAN 2<br>
+ALGORITMA KELIPATAN 2<br>
 ======================
 1. Pengguna menginput angkanya<br>
 2. Komputer mengambil angka dari variabel<br>
@@ -13,7 +13,7 @@ ALGORTIMA KELIPATAN 2<br>
 4. Komputer menampilkan hasilnya
 
 ====================================<br>
-ALGORTIMA MENCARI ANGKA TERBESAR<br>
+ALGORITMA MENCARI ANGKA TERBESAR<br>
 ====================================
 1. Pengguna menginput Angka 1
 2. Pengguna menginput Angka 2
@@ -23,7 +23,7 @@ ALGORTIMA MENCARI ANGKA TERBESAR<br>
 6. Jika Angka 1 sama dengan Angka 2, tampilkan "Angkanya sama besar"
 
 ===================================<br>
-ALGORTIMA MENCARI KPK DARI 3 DAN 4<br>
+ALGORITMA MENCARI KPK DARI 3 DAN 4<br>
 ===================================
 1. Tentukan nilai a = 3 dan b = 4
 2. Definisikan fungsi FPB(a, b):
@@ -40,7 +40,7 @@ ALGORTIMA MENCARI KPK DARI 3 DAN 4<br>
 6. Tampilkan KPK
 
 ===========================================<br>
-ALGORTIMA MENUKAR POSISI MANGGIS DAN PISANG<br>
+ALGORITMA MENUKAR POSISI MANGGIS DAN PISANG<br>
 ===========================================
 1. Tampilkan "Piring 1: Manggis"
 2. Tampilkan "Piring 2: Pisang"
@@ -54,7 +54,7 @@ ALGORTIMA MENUKAR POSISI MANGGIS DAN PISANG<br>
    - Tampilkan "Piring 3: Kosong"
 
 ================================<br>
-ALGORTIMA MENCARI LUAS SEGITIGA<br>
+ALGORITMA MENCARI LUAS SEGITIGA<br>
 =================================
 1. Tetapkan alas = 25 dan tinggi = 30
 2. Tampilkan informasi alas dan tinggi
@@ -62,7 +62,7 @@ ALGORTIMA MENCARI LUAS SEGITIGA<br>
 4. Tampilkan hasil luas segitiga
 
 =====================================<br>
-ALGORTIMA MENCARI LUAS JAJAR GENJANG<br>
+ALGORITMA MENCARI LUAS JAJAR GENJANG<br>
 =====================================
 1. Tetapkan panjang = 25 dan tinggi = 30
 2. Tampilkan informasi panjang dan tinggi
@@ -70,7 +70,7 @@ ALGORTIMA MENCARI LUAS JAJAR GENJANG<br>
 4. Tampilkan hasil luas jajargenjang
 
 =================================<br>
-ALGORTIMA MENCARI VOLUME TABUNG<br>
+ALGORITMA MENCARI VOLUME TABUNG<br>
 =================================
 1. Tetapkan jari-jari = 3 dan tinggi = 5
 2. Tampilkan informasi jari-jari dan tinggi
