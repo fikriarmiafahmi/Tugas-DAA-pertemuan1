@@ -18,10 +18,10 @@ PSEUDOCODE MENCARI ANGKA TERBESAR<br>
 1. Start
 2. Input Angka1
 3. Input Angka2
-5. If Angka1 > Angka2, print "Angka yang lebih besar adalah Angka 1"
-6. If Angka2 > Angka1, print "Angka yang lebih besar adalah Angka 2"
-7. If Angka1 == Angka2, print "Angkanya sama besar"
-8. End
+5. If Angka1 > Angka2, print "Angka yang lebih besar adalah {Angka1}"
+7. If Angka2 > Angka1, print "Angka yang lebih besar adalah {Angka2}"
+8. If Angka1 == Angka2, print "Angkanya sama besar"
+9. End
 
 ===================================<br>
 PSEUDOCODE MENCARI KPK DARI 3 DAN 4<br>
