@@ -2,7 +2,6 @@
 Nama: Fikri Armia Fahmi<br>
 NIM: 2023071018<br>
 =======================<br>
-<br>
 A. ALGORITMA
 <br>
 ======================<br>
