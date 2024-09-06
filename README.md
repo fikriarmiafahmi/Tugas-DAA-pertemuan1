@@ -63,39 +63,39 @@ PSEUDOCODE MENUKAR POSISI MANGGIS DAN PISANG<br>
 ================================<br>
 PSEUDOCODE MENCARI LUAS SEGITIGA<br>
 ================================
-1. Mulai
+1. Start
 2. Tetapkan alas = 25 dan tinggi = 30
 3. Tampilkan informasi alas dan tinggi
 4. Hitung luas segitiga dengan rumus 1/2 * alas * tinggi
 5. Tampilkan hasil luas segitiga
-6. Selesai
+6. End
 
 ====================================<br>
 PSEUDOCODE MENCARI LUAS JAJAR GENJANG<br>
 =====================================
-1. Mulai
+1. Start
 2. Tetapkan panjang = 25 dan tinggi = 30
 3. Tampilkan informasi panjang dan tinggi
 4. Hitung luas jajargenjang dengan rumus panjang * tinggi
 5. Tampilkan hasil luas jajargenjang
-6. Selesai
+6. End
 
 ================================<br>
 PSEUDOCODE MENCARI VOLUME TABUNG<br>
 ================================
-1. Mulai
+1. Start
 2. Tetapkan jari-jari = 3 dan tinggi = 5
 3. Tampilkan informasi jari-jari dan tinggi
 4. Hitung volume tabung dengan rumus π * jari-jari^2 * tinggi
 5. Tampilkan hasil volume tabung
-6. Selesai
+6. End
 
 =================================<br>
 PSEUDOCODE MENCARI VOLUME KERUCUT<br>
 =================================
-1. Mulai
+1. Start
 2. Tetapkan diameter = 5 dan tinggi = 4
 3. Tampilkan informasi diameter dan tinggi
 4. Hitung volume kerucut dengan rumus 1/3 * π * (diameter / 2)^2 * tinggi
 5. Tampilkan hasil volume kerucut
-6. Selesai
+6. End
