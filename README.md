@@ -49,10 +49,10 @@ PSEUDOCODE MENUKAR POSISI MANGGIS DAN PISANG<br>
 3. Piring2 = "Pisang"
 4. Piring3 = "Kosong"
 5. Piring1, Piring2 = Piring2, Piring1
-6. - Print Piring1
-   - Print Piring2
-   - Print Piring3
-7. End
+6. Print Piring1
+7. Print Piring2
+8. Print Piring3
+9. End
 
 ================================<br>
 PSEUDOCODE MENCARI LUAS SEGITIGA<br>
